@@ -1,1 +1,3 @@
 # mirrortarget
+
+test if mirror work...
